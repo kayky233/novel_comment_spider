@@ -24,21 +24,21 @@ Title书名：评价的书籍名称。
 
 Author作者：书籍的作者。
 
-![title](.\image\author.jpg) 
+![author](./image/author.jpg) 
 
 Translator译者：书籍的译者。
 
-![title](.\image\translator.jpg)
+![translator](./image/translator.jpg)
 
 Reviewer评论者：评论的读者ID或昵称。
 
-![reviewer](.\image\reviewer.jpg)
+![reviewer](./image/reviewer.jpg)
 
-Time评论时间：评论的时间戳或日期。![reviewer](.\image\time.jpg)
+Time评论时间：评论的时间戳或日期。![time](./image/time.jpg)
 
-Score评分：读者对该书籍的评分。此处需简单计算一下分数，见注。 ![reviewer](.\image\score.jpg)
+Score评分：读者对该书籍的评分。此处需简单计算一下分数，见注。 ![score](./image/score.jpg)
 
-Content评论内容：读者对该书籍的评价和评论。     ![reviewer](.\image\content.jpg)
+Content评论内容：读者对该书籍的评价和评论。     ![content](./image/content.jpg)
 
 Website评论来源网站：网站名称
 
