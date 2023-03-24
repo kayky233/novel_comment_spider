@@ -20,7 +20,7 @@ https://www.wuxiaworld.com/novels/?genre=Xianxia
 
 Title书名：评价的书籍名称。
 
-![title](.\image\title.jpg)  
+![title](./image/title.jpg)  
 
 Author作者：书籍的作者。
 
