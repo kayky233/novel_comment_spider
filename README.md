@@ -1,0 +1,2 @@
+# novel_comment_spider
+爬取wuxiaworld网站仙侠小说板块的读者书评，并制作成数据集，保存在csv格式的文件中
